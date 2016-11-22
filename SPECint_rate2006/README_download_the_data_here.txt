@@ -1,0 +1,1 @@
+http://www.spec.org/cgi-bin/osgresults?conf=rint2006;op=dump;format=csvdump
