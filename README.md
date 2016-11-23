@@ -6,10 +6,13 @@ explore CPU across platforms in terms of speed (SPECint_rate2006), price (SPECin
 ## view the live workbooks on tableau public
 - speed (SPECint_rate2006) 
 	- [https://public.tableau.com/profile/karlarao#!/vizhome/SPECint_rate2006/ALL](https://public.tableau.com/profile/karlarao#!/vizhome/SPECint_rate2006/ALL)
+	![](http://i.imgur.com/IWKnxZt.png)
 - price (SPECint_rate2006_price)
 	- [https://public.tableau.com/profile/karlarao#!/vizhome/SPECint_rate2006_price/speedprice](https://public.tableau.com/profile/karlarao#!/vizhome/SPECint_rate2006_price/speedprice)
+	![](http://i.imgur.com/aqhIJwJ.png)
 - watt usage (SPECpower_ssj2008)
 	- [https://public.tableau.com/profile/karlarao#!/vizhome/SPECpower_ssj2008/ssjwatt](https://public.tableau.com/profile/karlarao#!/vizhome/SPECpower_ssj2008/ssjwatt)
+	![](http://i.imgur.com/37TbtoC.png)
 
 
 ## references
